@@ -1,5 +1,4 @@
-# Chatbot
-chatbot with Node.Js and Wit.Ai on Telegram
+
 Medika Chatbot
 
 This program is created with the aim of assisting users (patients) to easily find information about hospitals.
@@ -19,3 +18,7 @@ Jika ingin menjalankan program secara lokal install XAMPP CONTROL PANEL terlebih
 (https://www.apachefriends.org/download.html)
 File program yang fix hanya v3.js
 jalankan bot dengan cara menulis command node index di terminal(jika ingin menjalankan lokal)
+
+## License
+
+[AUTHORS](https://github.com/JONATHANBILLY)
